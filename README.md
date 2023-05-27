@@ -6,6 +6,7 @@
 
 相对比 [原版安装器](https://github.com/LocalizeLimbusCompany/LLC_MOD_Installer) 增加了以下功能
 
+- ~~美化界面~~
 - 尝试修复了部分 Windows11 用户报错。
 - 在找不到 Limbus Company 目录的时候可以进行手动选择。
 - **添加两个镜像下载节点，使国内的下载更容易。**
